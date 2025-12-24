@@ -16,7 +16,10 @@
 <ul>
   <li>Exploring <strong>AI integration</strong> in web applications</li>
   <li>Backend development with <strong>Node.js, Express & TypeScript</strong></li>
-  <li><strong>Competitive programming</strong></li>
+  <li>
+    <strong>Competitive Programming</strong> — solved <strong>355+ problems</strong> on Codeforces,
+    exploring <strong>DSA</strong> and advanced <strong>algorithmic techniques</strong>
+  </li>
 </ul>
 
 <h2>🛠️ Tech Stack</h2>
@@ -27,15 +30,29 @@
 <p><strong>Tools:</strong> Git, GitHub, Linux, Docker (basics)</p>
 <p><strong>AI / ML:</strong> Python, Machine Learning fundamentals</p>
 
+<!-- STACK & TECHNOLOGY ICONS -->
+<h2>⚙️ Technologies & Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,nodejs,express,react,mongodb,postgres,react,git,linux,docker" />
+</div>
+
+<br>
+
 <h2>📫 Connect With Me</h2>
 <ul>
   <li>💻 GitHub: You’re already here 🙂</li>
-  <li>🔗 LinkedIn: 
+  <li>🏆 Codeforces:
+    <a href="https://codeforces.com/profile/eng_Marwen" target="_blank">
+      eng_Marwen
+    </a>
+  </li>
+  <li>🔗 LinkedIn:
     <a href="https://www.linkedin.com/in/marwen-boussabat-508b00261/" target="_blank">
       marwen-boussabat
     </a>
   </li>
-  <li>📧 Email: 
+  <li>📧 Email:
     <a href="mailto:marwen.bousabbate@supcom.tn">
       marwen.bousabbate@supcom.tn
     </a>
@@ -44,5 +61,5 @@
 
 <div align="center">
   <br>
-  <em>Building, learning, and growing every day 🚀</em>
+  <em>Consistent progress, one problem and one project at a time 🚀</em>
 </div>
