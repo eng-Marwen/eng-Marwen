@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I'm Marwen
 
-<!--
-**eng-Marwen/eng-Marwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ICT Engineering student at Sup'Com (Tunisia)
+💻 Aspiring Software Engineer with strong interest in Backend Development & AI
 
-Here are some ideas to get you started:
+🚀 What I’m Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring AI integration in web applications
+
+Backend development with Node.js, Express & TypeScript
+
+Competetive programming
+
+🛠️ Tech Stack
+
+Languages: JavaScript, TypeScript, C++,Python 
+
+Backend: Node.js, Express, MongoDB , SQL
+
+Frontend: React, React Native
+
+Tools: Git, GitHub, Linux , Docker (basics)
+
+AI/ML: Python , ML fundamentals
+
+📫 Connect With Me
+
+GitHub: You’re already here 🙂
+
+LinkedIn: https://www.linkedin.com/in/marwen-boussabat-508b00261/
+
