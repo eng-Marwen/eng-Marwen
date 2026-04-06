@@ -16,6 +16,7 @@
 <ul>
   <li>Exploring <strong>AI integration</strong> in web applications</li>
   <li>Backend development with <strong>Node.js, Express & TypeScript</strong></li>
+  <li>Building <strong>AI microservices</strong> using <strong>FastAPI</strong></li>
   <li>
     <strong>Competitive Programming</strong> — solved <strong>355+ problems</strong> on Codeforces,
     exploring <strong>DSA</strong> and advanced <strong>algorithmic techniques</strong>
@@ -25,16 +26,17 @@
 <h2>🛠️ Tech Stack</h2>
 
 <p><strong>Languages:</strong> JavaScript, TypeScript, C++, Python</p>
-<p><strong>Backend:</strong> Node.js, Express, MongoDB, SQL</p>
+<p><strong>Backend:</strong> Node.js, Express, FastAPI, MongoDB, SQL</p>
 <p><strong>Frontend:</strong> React, React Native</p>
-<p><strong>Tools:</strong> Git, GitHub, Linux, Docker (basics)</p>
-<p><strong>AI / ML:</strong> Python, Machine Learning fundamentals</p>
+<p><strong>Tools:</strong> Git, GitHub, Linux, Docker (basics), RabbitMQ</p>
+<p><strong>Databases & Caching:</strong> MongoDB, PostgreSQL, Redis, Qdrant</p>
+<p><strong>AI / ML:</strong> Python, Machine Learning fundamentals, TensorFlow, PyTorch</p>
 
 <!-- STACK & TECHNOLOGY ICONS -->
 <h2>⚙️ Technologies & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,nodejs,express,react,mongodb,postgres,react,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,nodejs,express,fastapi,react,mongodb,postgres,redis,rabbitmq,tensorflow,pytorch,git,linux,docker" />
 </div>
 
 <br>
