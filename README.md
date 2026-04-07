@@ -60,8 +60,9 @@
     </a>
   </li>
 </ul>
-<div>![GitHub Streak](https://streak-stats.demolab.com?user=eng-Marwen&theme=radical)</div>
 <div align="center">
-  <br>
+  <img src="https://streak-stats.demolab.com?user=eng-Marwen&theme=radical" alt="GitHub Streak" />
+  
+  <br><br>
   <em>Consistent progress, one problem and one project at a time 🚀</em>
 </div>
