@@ -1,150 +1,94 @@
-<div align="center">
+ <div align="center">
 
-  <h1>👋 Hi, I'm Marwen</h1>
+# 👋 Hi, I'm Marwen
 
-  <p>
-    🎓 Final-year ICT Engineering Student at <strong>Sup'Com (Tunisia)</strong><br>
-    ☁️ <strong>DevOps & Cloud Infrastructure</strong> — building and deploying cloud-native distributed systems<br>
-    🔎 <strong>Seeking a final-year internship</strong> in DevOps, Cloud or Infrastructure Engineering
-  </p>
+🎓 ICT Engineering Student at **Sup'Com (Tunisia)**
 
-  <hr width="60%"/>
+💻 **Software Engineering | AI & Intelligent Systems | Microservices | DevOps & Cloud**
+
+Building scalable software, AI-powered applications, distributed systems, and cloud-native solutions.
+
+<hr width="60%"/>
 
 </div>
 
-<h2>🚀 What I'm Working On</h2>
+## 🚀 What I'm Working On
 
-<ul>
-  <li>
-    ☸️ <strong>CloudForge</strong> — a self-hosted PaaS on Kubernetes that turns a GitHub repository into a live app,
-    with a <strong>C++ control plane</strong> that autoscales workloads from <strong>Prometheus</strong> metrics
-  </li>
-  <li>
-    🏗️ Provisioning reproducible infrastructure with <strong>Terraform</strong> on <strong>KVM/libvirt</strong>,
-    and automating multi-node <strong>Kubernetes</strong> clusters end to end
-  </li>
-  <li>
-    ⚙️ Designing <strong>CI/CD pipelines</strong> (GitLab CI/CD & GitHub Actions) for automated testing,
-    containerization and versioned delivery
-  </li>
-  <li>
-    📊 Implementing multi-level <strong>observability</strong> with <strong>Prometheus & Grafana</strong>
-    across VMs, nodes, pods and applications
-  </li>
-  <li>
-    🏆 <strong>Competitive Programming</strong> — 355+ problems solved on Codeforces (Pupil),
-    1st place at ISI Contest, 7th at INSAT Code Quest
-  </li>
-</ul>
+- ☸️ **CloudForge** — A self-hosted Kubernetes-based PaaS that turns GitHub repositories into live applications, featuring a C++ control plane and Prometheus-driven autoscaling.
+- 🤖 **AI & Intelligent Systems** — Exploring RAG architectures, AI agents, intelligent automation, and AI-powered microservices.
+- 🏗️ **Cloud-Native Engineering** — Building distributed applications, automating infrastructure with Terraform, and orchestrating workloads with Kubernetes.
+- ⚙️ **Software Engineering** — Designing modular backends, REST APIs, event-driven architectures, and reliable CI/CD pipelines.
+- 🏆 **Competitive Programming** — 355+ problems solved on Codeforces (Pupil), 1st place at ISI Contest, 7th at INSAT Code Quest.
 
-<h2>💼 Experience</h2>
+## 💼 Experience
 
-<ul>
-  <li>
-    🤖 <strong>MLOps Engineer Intern — Sagemcom SST</strong> <em>(Jul – Aug 2026)</em><br>
-    Industrialized a RAG-based smart-meter anomaly detection module: modular frontend + REST backend,
-    multi-stage Docker builds, rootless execution validated with Podman, and GitLab CI/CD with Pytest and VM deployments.
-  </li>
-  <li>
-    💻 <strong>Software Engineer (Part-time) — Converty</strong> <em>(Sep 2025 – Feb 2026)</em><br>
-    Built an enterprise pricing & subscription module, decoupled transactional mailing with <strong>RabbitMQ</strong>,
-    and created an image processing pipeline that cut cloud storage overhead.
-  </li>
-  <li>
-    🧪 <strong>Software Engineer Intern — Converty</strong> <em>(Jul – Aug 2025)</em><br>
-    TDD integration suites with Jest (85%+ coverage), fixed concurrency race conditions, set up centralized logging.
-  </li>
-</ul>
+- 🤖 **MLOps Engineer Intern — Sagemcom SST** *(Jul – Aug 2026)*  
+  Industrialized a RAG-based smart-meter anomaly detection module: modular frontend and REST backend, multi-stage Docker builds, rootless execution validated with Podman, and GitLab CI/CD with Pytest and VM deployments.
 
-<h2>🛠️ Tech Stack</h2>
+- 💻 **Software Engineer (Part-time) — Converty** *(Sep 2025 – Feb 2026)*  
+  Built an enterprise pricing and subscription module, decoupled transactional mailing with RabbitMQ, and developed an image processing pipeline to reduce cloud storage overhead.
 
-<p><strong>Languages:</strong> C++, Python, JavaScript, TypeScript, Bash</p>
+- 🧪 **Software Engineer Intern — Converty** *(Jul – Aug 2025)*  
+  Developed TDD integration suites with Jest (85%+ coverage), fixed concurrency race conditions, and implemented centralized logging.
 
-<p><strong>DevOps & Cloud:</strong> Docker, Podman, Kubernetes, Helm, Terraform, KVM/libvirt, GitLab CI/CD, GitHub Actions, SonarQube, NGINX Ingress, AWS, Linux</p>
+## 🛠️ Tech Stack
 
-<p><strong>Observability:</strong> Prometheus, Grafana</p>
+**Languages:** C++, Python, JavaScript, TypeScript, Bash
 
-<p><strong>Backend & Frameworks:</strong> Express.js, FastAPI, REST APIs, React</p>
+**Software Engineering:** Data Structures & Algorithms, OOP, REST APIs, Microservices, Event-Driven Architecture, TDD
 
-<p><strong>Databases & Messaging:</strong> MongoDB, PostgreSQL, Redis, Qdrant, RabbitMQ</p>
+**AI / Machine Learning:** RAG, AI Agents, CNN-based Image Validation, ML Prediction, AI Microservices
 
-<p><strong>AI / ML:</strong> RAG, CNN-based image validation, ML price prediction, AI microservices</p>
+**Backend & Frontend:** Node.js, Express.js, FastAPI, React
 
-<p><strong>Networking:</strong> TCP/IP, Cisco Networking, Kubernetes Networking</p>
+**DevOps & Cloud:** Docker, Podman, Kubernetes, Helm, Terraform, KVM/libvirt, GitLab CI/CD, GitHub Actions, AWS, Linux
+
+**Observability:** Prometheus, Grafana
+
+**Databases & Messaging:** MongoDB, PostgreSQL, Redis, Qdrant, RabbitMQ
+
+**Networking:** TCP/IP, Cisco Networking, Kubernetes Networking
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,bash,nodejs,express,fastapi,react,docker,kubernetes,terraform,githubactions,gitlab,aws,linux,prometheus,grafana,mongodb,postgres,redis,rabbitmq,git" />
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,bash,nodejs,express,fastapi,react,docker,kubernetes,terraform,githubactions,gitlab,aws,linux,prometheus,grafana,mongodb,postgres,redis,rabbitmq,git" />
 
 </div>
 
 <br>
 
-<h2>📌 Featured Projects</h2>
+## 📌 Featured Projects
 
-<ul>
-  <li>
-    ☸️ <strong>CloudForge — Kubernetes-Based Private Cloud PaaS</strong> —
-    Repository-to-app deployments with automated build, exposure, scaling and lifecycle management.
-    C++ control plane, TypeScript backend & frontend, Prometheus-driven autoscaling.
-  </li>
+- ☸️ **CloudForge — Kubernetes-Based Private Cloud PaaS**  
+  Repository-to-app deployments with automated builds, exposure, scaling, and lifecycle management. C++ control plane, TypeScript backend and frontend, Prometheus-driven autoscaling.
 
-  <li>
-    🏗️ <strong>Terraform-Based Kubernetes Infrastructure & Multi-Layer Observability</strong> —
-    KVM/libvirt VMs and isolated subnet provisioned with Terraform and cloud-init, multi-node cluster bootstrapped
-    with kubeadm/containerd, microservices behind NGINX Ingress, full-stack monitoring with Prometheus & Grafana via Helm.
-  </li>
+- 🏗️ **Terraform-Based Kubernetes Infrastructure & Multi-Layer Observability**  
+  KVM/libvirt VMs and isolated subnet provisioned with Terraform and cloud-init, multi-node cluster bootstrapped with kubeadm/containerd, microservices behind NGINX Ingress, and full-stack monitoring with Prometheus and Grafana via Helm.
 
-  <li>
-    🏠 <strong>AI-Powered Real Estate Platform</strong> —
-    Event-driven microservices over RabbitMQ, a FastAPI AI service (RAG, CNN image validation, price prediction),
-    deployed with Docker Compose & Kubernetes, and shipped through GitHub Actions CI/CD to Render.
-  </li>
-</ul>
+- 🏠 **AI-Powered Real Estate Platform**  
+  Event-driven microservices using RabbitMQ, a FastAPI AI service (RAG, CNN image validation, price prediction), Docker Compose and Kubernetes deployment, and GitHub Actions CI/CD.
 
-<h2>🎖️ Certifications & Education</h2>
+## 🎖️ Certifications & Education
 
-<ul>
-  <li>☁️ <strong>AWS Certified Cloud Practitioner</strong></li>
-  <li>🌐 <strong>Cisco Certified Network Associate (CCNA 1–3)</strong></li>
-  <li>🗣️ English — Professional (TOEIC 895/990) · French</li>
-  <li>🎓 Sup'Com — National ICT Engineering Diploma (2024 – present)</li>
-  <li>📚 IPEIEM Preparatory Classes — ranked 19/800 (2022 – 2024)</li>
-</ul>
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🌐 **Cisco Certified Network Associate (CCNA 1–3)**
+- 🗣️ English — Professional (TOEIC 895/990) · French
+- 🎓 Sup'Com — National ICT Engineering Diploma (2024 – present)
+- 📚 IPEIEM Preparatory Classes — Ranked 19/800 (2022 – 2024)
 
-<h2>📫 Connect With Me</h2>
+## 📫 Connect With Me
 
-<ul>
-  <li>💻 GitHub: You're already here 🙂</li>
-
-  <li>
-    🏆 Codeforces:
-    <a href="https://codeforces.com/profile/eng_Marwen" target="_blank">
-      eng_Marwen
-    </a>
-  </li>
-
-  <li>
-    🔗 LinkedIn:
-    <a href="https://www.linkedin.com/in/marwen-boussabat-508b00261/" target="_blank">
-      marwen-boussabat
-    </a>
-  </li>
-
-  <li>
-    📧 Email:
-    <a href="mailto:marwen.bousabbate@supcom.tn">
-      marwen.bousabbate@supcom.tn
-    </a>
-  </li>
-</ul>
+- 💻 GitHub: You're already here 🙂
+- 🏆 Codeforces: [eng_Marwen](https://codeforces.com/profile/eng_Marwen)
+- 🔗 LinkedIn: [marwen-boussabat](https://www.linkedin.com/in/marwen-boussabat-508b00261/)
+- 📧 Email: [marwen.bousabbate@supcom.tn](mailto:marwen.bousabbate@supcom.tn)
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=eng-Marwen&theme=radical" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=eng-Marwen&theme=radical" alt="GitHub Streak" />
 
 <br><br>
 
-<em>Building, automating, monitoring — one system at a time 🚀</em>
+*Building intelligent software, engineering distributed systems, and automating infrastructure — one system at a time 🚀*
 
 </div>
